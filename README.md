@@ -9,6 +9,6 @@ To use run_analysis.R, download in script in your current working directory. Thi
 
 The script will create a folder called "analysis" and deposit two tidy datasets within:
 
-tidyData.txt - contains all mean and standard deviation calculations for each observed activity (walking, walking_upstairs, walking_downstairs, sitting, standing, and laying) by participants (1-30)
+tidyData.txt - contains all mean and standard deviation values for each observed activity (walking, walking_upstairs, walking_downstairs, sitting, standing, and laying) by participants (1-30) combining both the training and testing phases
 
-tidyData_means.txt - aggregates means and standard deviations for all observations per participant per activity and provides their mean values
+tidyData_means.txt - average value for each variable by participant and activity
